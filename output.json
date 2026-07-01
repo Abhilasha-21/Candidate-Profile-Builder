@@ -1,0 +1,36 @@
+{
+  "candidate_id" : "C001",
+  "full_name" : "Rahul Sharma",
+  "emails" : [ "rahul@gmail.com" ],
+  "phones" : [ "+919876543210" ],
+  "headline" : "Software Engineer",
+  "skills" : [ {
+    "name" : "Java",
+    "confidence" : 0.85
+  }, {
+    "name" : "Spring Boot",
+    "confidence" : 0.85
+  }, {
+    "name" : "Docker",
+    "confidence" : 0.85
+  }, {
+    "name" : "MySQL",
+    "confidence" : 0.85
+  } ],
+  "provenance" : [ {
+    "field" : "fullName",
+    "source" : "Recruiter CSV"
+  }, {
+    "field" : "emails",
+    "source" : "Recruiter CSV"
+  }, {
+    "field" : "phones",
+    "source" : "Recruiter CSV"
+  }, {
+    "field" : "headline",
+    "source" : "Resume"
+  }, {
+    "field" : "skills",
+    "source" : "Resume"
+  } ]
+}
