@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: candidate-profile-builder
+
+server:
+  port: 8081
